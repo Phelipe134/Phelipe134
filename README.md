@@ -33,7 +33,7 @@ Aplicativo Android desenvolvido como projeto pessoal.
 
 📌 Planejamento • Git • Versionamento • Documentação
 
-<a href="</a>https://github.com/Phelipe134/cofre-de-segredos.git">
+<a href="https://github.com/Phelipe134/cofre-de-segredos.git">
 Ver projeto →
 </a>
 
