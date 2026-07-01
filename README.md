@@ -33,7 +33,7 @@ Aplicativo Android desenvolvido como projeto pessoal.
 
 📌 Planejamento • Git • Versionamento • Documentação
 
-<a href="LINK_DO_REPOSITORIO_COFRE">
+<a href="</a>https://github.com/Phelipe134/cofre-de-segredos.git">
 Ver projeto →
 </a>
 
@@ -47,7 +47,7 @@ Site institucional desenvolvido para uma imobiliária.
 
 📌 Interface • Organização • Git • Desenvolvimento Web
 
-<a href="LINK_DO_REPOSITORIO_TEG">
+<a href="https://github.com/Phelipe134/tegimoveis.git">
 Ver projeto →
 </a>
 
