@@ -2,9 +2,9 @@
 
 # Phelipe Alexandre
 
-### Desenvolvimento de Software • Automação • Inteligência Artificial
+### Cybersecurity • Automação • Inteligência Artificial
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Construindo+projetos+reais.;Aprendendo+continuamente.;Transformando+ideias+em+software." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Estudante+de+Cybersecurity+na+FIAP.;Construindo+projetos+reais.;Em+busca+de+est%C3%A1gio+em+tecnologia." />
 
 </div>
 
@@ -12,11 +12,19 @@
 
 ## 👨‍💻 Sobre
 
-Tenho 17 anos e sou estudante do Ensino Médio.
+Sou estudante de **Cybersecurity na FIAP** (início em fev/2027) e estou construindo minha base em segurança da informação, automação e IA.
 
-Atualmente desenvolvo projetos pessoais para colocar em prática conhecimentos em desenvolvimento de software, automação e inteligência artificial.
+Já atuei com **atendimento e automação de fluxos** na Asmed Latino América, criando bots no Maxbot e integrações com n8n. Hoje uso projetos pessoais, desenvolvidos com apoio de ferramentas de IA, para aprender na prática.
 
-Meu foco é evoluir continuamente através da construção de projetos reais e da resolução de problemas.
+🎯 **Buscando estágio em tecnologia / segurança da informação (período da tarde).**
+
+---
+
+## 💼 Experiência
+
+**Asmed Latino América** — Atendimento e Automações *(ago–dez/2025)*
+- Criação e manutenção de fluxos de atendimento automatizado no Maxbot
+- Automações com n8n
 
 ---
 
@@ -29,11 +37,11 @@ Meu foco é evoluir continuamente através da construção de projetos reais e d
 
 ### 🔐 Cofre de Segredos
 
-Aplicativo Android desenvolvido como projeto pessoal.
+Aplicativo Android para guardar informações pessoais.
 
-📌 Planejamento • Git • Versionamento • Documentação
+📌 Kotlin • Android Studio • Git • Documentação
 
-<a href="https://github.com/Phelipe134/cofre-de-segredos.git">
+<a href="https://github.com/Phelipe134/cofre-de-segredos">
 Ver projeto →
 </a>
 
@@ -45,9 +53,9 @@ Ver projeto →
 
 Site institucional desenvolvido para uma imobiliária.
 
-📌 Interface • Organização • Git • Desenvolvimento Web
+📌 Desenvolvimento Web • Interface • Git
 
-<a href="https://github.com/Phelipe134/tegimoveis.git">
+<a href="https://github.com/Phelipe134/tegimoveis">
 Ver projeto →
 </a>
 
@@ -58,11 +66,19 @@ Ver projeto →
 
 ---
 
-## 🛠️ Tecnologias
+## 📚 Estudando agora
+
+- Fundamentos de redes e Linux
+- Segurança da informação
+- Automação com n8n e IA
+
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,kotlin,androidstudio,figma,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,kotlin,androidstudio,html,css,figma,vscode&perline=9" />
 
 </div>
 
@@ -75,26 +91,6 @@ Ver projeto →
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Phelipe134&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phelipe134&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Phelipe134&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Phelipe134&theme=github-dark&hide_border=true"/>
 
 </div>
 
