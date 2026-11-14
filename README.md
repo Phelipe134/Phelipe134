@@ -33,31 +33,54 @@ Já atuei com **atendimento e automação de fluxos** na Asmed Latino América, 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Cofre de Segredos
 
-Aplicativo Android para guardar informações pessoais.
+App Android que guarda senhas criptografadas no aparelho: **AES-256-GCM**, chave derivada com **PBKDF2** (210 mil iterações), Android Keystore para o desbloqueio por biometria e sincronização com um app Windows por Bluetooth.
 
-📌 Kotlin • Android Studio • Git • Documentação
+📌 Kotlin • Jetpack Compose • Criptografia • C#
 
-<a href="https://github.com/Phelipe134/cofre-de-segredos">
-Ver projeto →
-</a>
+<a href="https://github.com/Phelipe134/cofre-de-segredos">Ver projeto →</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+### 💬 ProjetPh
+
+Plataforma de atendimento pelo **WhatsApp (API oficial da Meta)** para pequenas empresas: caixa de entrada da equipe, robô e fluxos visuais, campanhas e relatórios. Segurança: webhooks validados por assinatura HMAC-SHA256, tokens cifrados com AES-256-GCM, senhas com scrypt e isolamento de dados por empresa.
+
+📌 TypeScript • React • Node.js • PostgreSQL
+
+🔒 Código privado (produto em uso). Demonstração sob pedido.
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🏠 TEG Imóveis
 
-Site institucional desenvolvido para uma imobiliária.
+Site com catálogo de imóveis e painel administrativo, feito para uma imobiliária real.
 
-📌 Desenvolvimento Web • Interface • Git
+📌 React • TypeScript • Supabase
 
-<a href="https://github.com/Phelipe134/tegimoveis">
-Ver projeto →
-</a>
+<a href="https://tegimobiliaria.com.br">Ver site no ar →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔎 Sherlock (Pulse+)
+
+Projeto acadêmico em equipe: assistente que busca chamados de suporte parecidos (embeddings + ChromaDB) e sugere a resposta com IA (Gemini).
+
+📌 Python • RAG • ChromaDB • Gemini
+
+<a href="https://github.com/Phelipe134/PulseMais">Ver projeto →</a>
 
 </td>
 
