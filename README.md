@@ -35,9 +35,9 @@ Já atuei com **atendimento e automação de fluxos** na Asmed Latino América, 
 
 <td width="50%" valign="top">
 
-### 🔐 Cofre de Segredos
+### 🔐 Cifra
 
-App Android que guarda senhas criptografadas no aparelho: **AES-256-GCM**, chave derivada com **PBKDF2** (210 mil iterações), Android Keystore para o desbloqueio por biometria e sincronização com um app Windows por Bluetooth.
+Gerenciador de senhas para Android, com tudo criptografado no aparelho: **AES-256-GCM**, chave derivada com **PBKDF2** (210 mil iterações), Android Keystore para o desbloqueio por biometria e sincronização com um app Windows por Bluetooth.
 
 📌 Kotlin • Jetpack Compose • Criptografia • C#
 
